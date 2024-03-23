@@ -1,0 +1,17 @@
+.active{
+    color: plum;
+}
+
+
+h1{
+    color: rgb(241, 44, 188);
+}
+
+#root{
+    background: rgb(239, 239, 238);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}

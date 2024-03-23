@@ -1,0 +1,142 @@
+{
+    "users": [
+        {
+          "id": "2f983e7d-1d02-4f7d-bc15-8f9e8f4a4e7a",
+          "name": "Maria Silva",
+          "email": "maria.silva@example.com",
+          "password": "senha123"
+        },
+        {
+          "id": "83247d9c-6f90-4bfc-b0fb-52a1fe6c7a82",
+          "name": "José Santos",
+          "email": "jose.santos@example.com",
+          "password": "abcdef"
+        },
+        {
+          "id": "10ab5a9f-5373-4912-b9c4-7fae39221bdc",
+          "name": "Ana Souza",
+          "email": "ana.souza@example.com",
+          "password": "senha1234"
+        },
+        {
+          "id": "b1498d7e-88d1-4531-b5a5-0c9c66a589e7",
+          "name": "Pedro Oliveira",
+          "email": "pedro.oliveira@example.com",
+          "password": "qwerty"
+        },
+        {
+          "id": "4c5e91e1-99fb-4d38-95b0-7c1f3ee38a5e",
+          "name": "Juliana Costa",
+          "email": "juliana.costa@example.com",
+          "password": "senha"
+        },
+        {
+          "id": "7a1e2255-7201-4c34-839f-c63c4d8b5721",
+          "name": "Lucas Pereira",
+          "email": "lucas.pereira@example.com",
+          "password": "abc123"
+        },
+        {
+          "id": "b01a139c-8c12-4b56-a316-88d9d4e2c91b",
+          "name": "Fernanda Lima",
+          "email": "fernanda.lima@example.com",
+          "password": "senha12345"
+        },
+        {
+          "id": "1d877740-3922-4fd1-9912-f1c832d65f37",
+          "name": "Gustavo Almeida",
+          "email": "gustavo.almeida@example.com",
+          "password": "abcdefg"
+        },
+        {
+          "id": "08d8a4cf-19b9-4896-8f7b-daeed77f0ecf",
+          "name": "Camila Rodrigues",
+          "email": "camila.rodrigues@example.com",
+          "password": "123abc"
+        },
+        {
+          "id": "81594617-5a84-451d-a02b-6975dd12bb7b",
+          "name": "Rafael Gonçalves",
+          "email": "rafael.goncalves@example.com",
+          "password": "senha1"
+        },
+        {
+          "id": "5f31278d-028a-4b76-ba8f-3d8c9979f10a",
+          "name": "Aline Costa",
+          "email": "aline.costa@example.com",
+          "password": "password"
+        },
+        {
+          "id": "b0cf36a4-aaec-45e3-af45-1d5fb40d4b1e",
+          "name": "Daniel Ferreira",
+          "email": "daniel.ferreira@example.com",
+          "password": "abcdef123"
+        },
+        {
+          "id": "0a6b6500-68e8-40bb-8656-451f97a78657",
+          "name": "Patrícia Martins",
+          "email": "patricia.martins@example.com",
+          "password": "password123"
+        },
+        {
+          "id": "e20eae7e-8936-4955-833d-143a8726dfe2",
+          "name": "Fábio Oliveira",
+          "email": "fabio.oliveira@example.com",
+          "password": "senha12"
+        },
+        {
+          "id": "e75746b7-035b-46f4-80b7-03b02eaebe39",
+          "name": "Carolina Lima",
+          "email": "carolina.lima@example.com",
+          "password": "123abc456"
+        },
+        {
+          "id": "1a2d1fc7-5080-49f2-9812-c5f5e2aa2d3a",
+          "name": "Roberto Santos",
+          "email": "roberto.santos@example.com",
+          "password": "abcdefg123"
+        },
+        {
+          "id": "56b00e58-08f3-4a77-b97e-1d1061c43002",
+          "name": "Tatiane Ferreira",
+          "email": "tatiane.ferreira@example.com",
+          "password": "senha123456"
+        },
+        {
+          "id": "0d01a34a-6e9a-44d2-b6c5-5e0524a3402d",
+          "name": "Anderson Oliveira",
+          "email": "anderson.oliveira@example.com",
+          "password": "123456789"
+        },
+        {
+          "id": "ca3c5f80-64a1-43ae-b6cc-c4cf8cf5c8a5",
+          "name": "Fernanda Santos",
+          "email": "fernanda.santos@example.com",
+          "password": "senha1234"
+        },
+        {
+          "id": "f9e7de82-0132-43b0-b1db-7db76d189d5f",
+          "name": "Luciana Pereira",
+          "email": "luciana.pereira@example.com",
+          "password": "12345678"
+        },
+        {
+          "id": "498cc717-01b9-42e6-a8cb-3bd8f6a3ed16",
+          "name": "Ricardo Silva",
+          "email": "ricardo.silva@example.com",
+          "password": "senha12345"
+        },
+        {
+          "id": "9a90ef8f-088d-458b-aeff-18b0cc1da2c9",
+          "name": "Mariana Oliveira",
+          "email": "mariana.oliveira@example.com",
+          "password": "senha987"
+        },
+        {
+          "id": "c2565b60-5b39-4b81-b8b9-15daef6b2458",
+          "name": "Ana Clara",
+          "email": "ana.clara@example.com",
+          "password": "senha456"
+        }
+    ]
+}
